@@ -26,7 +26,7 @@ As far as Mac goes, it may be a good idea to use SourceTree and use git through 
 
 EXTRA:
 
-I considered putting this as my tip-of-the-week but it didn't quite seem formal or academic enough. My dad is an electrical engineer who mostly programs. In fact he mostly programs in C++. And he has a lot of opinions about references, which is why I thought it might be interesting to show because that's our current class topic. Anyways here's a very poor quality video of a skype call I just had with my parents. WARNING: Colorful language.\n
+I considered putting this as my tip-of-the-week but it didn't quite seem formal or academic enough. My dad is an electrical engineer who mostly programs. In fact he mostly programs in C++. And he has a lot of opinions about references, which is why I thought it might be interesting to show because that's our current class topic. Anyways here's a very poor quality video of a skype call I just had with my parents. **WARNING: Colorful language.**
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Ph_6GI-UgXo" frameborder="0" allowfullscreen></iframe>
 
