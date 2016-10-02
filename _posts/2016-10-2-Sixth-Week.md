@@ -13,3 +13,4 @@ I feel like I don't have any time to do my hobbies anymore and its bumming me ou
 OOP exam next week! Study study study! I wish we had a practice exam so we knew vaguely what the test would look like. We get one page of notes, which is a godsend because there are so many minute details that I absolutely would not be able to rememeber. We aren't allowed to have code on it though, I fine with that, it makes sense, considering the test is coding.
 
 **Tip-of-the-Week**
+The CS department and clubs hold events all the time that are usually meant to be networking events but almost always feature talks by indutry professionals about very practical skills. You can learn a lot from them! You can find these events on the CS events emails that are sent every week.
