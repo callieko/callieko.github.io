@@ -16,3 +16,4 @@ This next week is Spring Break! I hope to spend most of my time relaxing but I w
 The class is great. The lectures fly by and are really engaging most of the time. 
 
 **What's my pick-of-the-week or tip-of-the-week?**
+GAMMA is a really great program for anyone interested in going into any field related to digital media. And if you feel like you want to delve more into the art side of it, Bridging Disciplines Program Digital Arts and Media program is really really great.
