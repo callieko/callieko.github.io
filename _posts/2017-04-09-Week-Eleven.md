@@ -16,4 +16,4 @@ Next week we will finally. FINALLY. be done with the graphics project and I'll b
 The specifications about the UML for the project were very vague and unclear honestly. If we lose points for not doing it correctly I won't be very happy.
 
 **What's my pick-of-the-week or tip-of-the-week?**
-Go see the movie Your Name. Absolutely great movie. Bawled my eyes out.
+Escape Rooms are really fun, I highly recommend them. It's all puzzles and problem solving and for a computer science major that should sound like a blast.
